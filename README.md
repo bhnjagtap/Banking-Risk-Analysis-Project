@@ -69,7 +69,7 @@ It helps to quickly identify the most common account types and their relative si
 This dashboard highlights correlations between different account types such as Bank Deposits, Checking Accounts, and Savings Accounts.  
 It helps identify high-value customers who maintain balances across multiple accounts.
 
-![Correlation Dashboard](Banking-Risk-Analysis-Project/bank_dashboard_2.png)
+![Correlation Dashboard](./bank_dashboard_2.png)
 
 ---
 
@@ -77,6 +77,6 @@ It helps identify high-value customers who maintain balances across multiple acc
 This dashboard tracks trends in customer activity and account growth over time.  
 It provides insights into customer behavior patterns for strategic decision-making.
 
-![Customer Trends Dashboard](Banking-Risk-Analysis-Project/bank_dashboard_3.png)
+![Customer Trends Dashboard](./bank_dashboard_3.png)
 
 ```python
