@@ -38,6 +38,29 @@ cnx = mysql.connector.connect(
 
 - Data was queried and fetched into Pandas DataFrames for analysis.
 
-### 3️⃣ Exploratory Data Analysis (EDA) in Python
+### 3️⃣ Exploratory Data Analysis (EDA) in Python  
 
-Performed detailed EDA to understand relationships between variables, identify patterns, and detect correlations.
+Performed detailed **EDA** to understand relationships between variables, identify patterns, and detect correlations.  
+
+#### 🔎 Key Insights from EDA:  
+- The strongest **positive correlation** is among:  
+  - **Bank Deposits** with **Checking Accounts**, **Saving Accounts**, and **Foreign Currency Accounts**.  
+- This indicates that customers who maintain **high balances in one account type** often hold **substantial funds across other accounts as well**.  
+- Such insights are valuable for **customer profiling** and identifying **high-value customers**.  
+
+---
+
+### 4️⃣ Power BI Dashboard  
+
+Designed an **interactive dashboard** in **Power BI** to present the insights visually.  
+
+#### The dashboard highlights:  
+- Account distributions  
+- Correlations between different account types  
+- Trends and customer patterns for business use  
+
+📸 **Dashboard Preview**  
+*(Add your Power BI screenshot here)*  
+
+```markdown
+![Dashboard Screenshot](images/dashboard.png)
