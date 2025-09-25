@@ -61,7 +61,7 @@ Designed an **interactive dashboard** in **Power BI** to present the insights vi
 This dashboard shows the distribution of customer accounts across different account types.  
 It helps to quickly identify the most common account types and their relative sizes.
 
-![Account Distribution Dashboard](images/account_distribution.png)
+![Account Distribution Dashboard](Bank dashboard 1.png)
 
 ---
 
@@ -69,7 +69,7 @@ It helps to quickly identify the most common account types and their relative si
 This dashboard highlights correlations between different account types such as Bank Deposits, Checking Accounts, and Savings Accounts.  
 It helps identify high-value customers who maintain balances across multiple accounts.
 
-![Correlation Dashboard](images/correlation_analysis.png)
+![Correlation Dashboard](Bank dasg=hboard 2.png)
 
 ---
 
@@ -77,6 +77,6 @@ It helps identify high-value customers who maintain balances across multiple acc
 This dashboard tracks trends in customer activity and account growth over time.  
 It provides insights into customer behavior patterns for strategic decision-making.
 
-![Customer Trends Dashboard](images/customer_trends.png)
+![Customer Trends Dashboard](Bank dashboard 3.png)
 
 ```python
