@@ -34,7 +34,7 @@ cnx = mysql.connector.connect(
     port=3306,
     user="mike",
     password="s3cre3t!"
-)
+) ```
 
 - Data was queried and fetched into Pandas DataFrames for analysis.
 
