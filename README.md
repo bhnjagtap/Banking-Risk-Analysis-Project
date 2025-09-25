@@ -61,7 +61,7 @@ Designed an **interactive dashboard** in **Power BI** to present the insights vi
 This dashboard shows the distribution of customer accounts across different account types.  
 It helps to quickly identify the most common account types and their relative sizes.
 
-![Account Distribution Dashboard](Banking-Risk-Analysis-Project/bank_dashboard_1.png)
+![Account Distribution Dashboard](./bank_dashboard_1.png)
 
 ---
 
