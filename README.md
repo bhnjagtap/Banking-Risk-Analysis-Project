@@ -25,7 +25,7 @@ The goal of this project is to uncover hidden patterns in customer financial dat
 - The Excel dataset was imported into **MySQL** for structured data management.  
 - Connected MySQL with Jupyter Notebook using the `mysql.connector` package:  
 
-```python
+
 import mysql.connector
 
 # Connect to server
@@ -34,33 +34,22 @@ cnx = mysql.connector.connect(
     port=3306,
     user="mike",
     password="s3cre3t!"
-) ```
-
-- Data was queried and fetched into Pandas DataFrames for analysis.
-
+)
 ### 3️⃣ Exploratory Data Analysis (EDA) in Python  
-
 Performed detailed **EDA** to understand relationships between variables, identify patterns, and detect correlations.  
 
 #### 🔎 Key Insights from EDA:  
 - The strongest **positive correlation** is among:  
   - **Bank Deposits** with **Checking Accounts**, **Saving Accounts**, and **Foreign Currency Accounts**.  
-- This indicates that customers who maintain **high balances in one account type** often hold **substantial funds across other accounts as well**.  
+- This indicates that customers who maintain **high balances in one account type** often hold **substantial funds across other account types as well**.  
 - Such insights are valuable for **customer profiling** and identifying **high-value customers**.  
 
----
-
 ### 4️⃣ Power BI Dashboard  
-
 Designed an **interactive dashboard** in **Power BI** to present the insights visually.  
 
 #### The dashboard highlights:  
-- Account distributions  
-- Correlations between different account types  
-- Trends and customer patterns for business use  
+- **Account distributions**  
+- **Correlations** between different account types  
+- **Trends and customer patterns** for business use
 
-📸 **Dashboard Preview**  
-*(Add your Power BI screenshot here)*  
-
-```markdown
-![Dashboard Screenshot](images/dashboard.png)
+```python
